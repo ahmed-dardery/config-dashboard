@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/config-dashboard/static/css/main.93e9b89f.css",
+    "main.js": "/config-dashboard/static/js/main.6abef563.js",
+    "static/js/787.3e8cfbee.chunk.js": "/config-dashboard/static/js/787.3e8cfbee.chunk.js",
+    "static/media/load.yaml": "/config-dashboard/static/media/load.c6bab0e883cfa989c996.yaml",
+    "index.html": "/config-dashboard/index.html",
+    "main.93e9b89f.css.map": "/config-dashboard/static/css/main.93e9b89f.css.map",
+    "main.6abef563.js.map": "/config-dashboard/static/js/main.6abef563.js.map",
+    "787.3e8cfbee.chunk.js.map": "/config-dashboard/static/js/787.3e8cfbee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e9b89f.css",
+    "static/js/main.6abef563.js"
+  ]
+}
