@@ -123,6 +123,8 @@ configs:
     _TYPE: bool
   apm:
     _TYPE: bool
+  temp:
+    _TYPE: string
 
 warns:
   group_warns:

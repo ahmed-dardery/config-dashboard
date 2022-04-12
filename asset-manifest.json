@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/config-dashboard/static/css/main.8bba1008.css",
-    "main.js": "/config-dashboard/static/js/main.177807d4.js",
+    "main.css": "/config-dashboard/static/css/main.15199819.css",
+    "main.js": "/config-dashboard/static/js/main.63b79b7d.js",
     "static/js/787.3e8cfbee.chunk.js": "/config-dashboard/static/js/787.3e8cfbee.chunk.js",
-    "static/media/load.yaml": "/config-dashboard/static/media/load.72a61cbba8f3c4175ee1.yaml",
+    "static/media/load.yaml": "/config-dashboard/static/media/load.1db8f1b2b3ab99a374d5.yaml",
     "index.html": "/config-dashboard/index.html",
-    "main.8bba1008.css.map": "/config-dashboard/static/css/main.8bba1008.css.map",
-    "main.177807d4.js.map": "/config-dashboard/static/js/main.177807d4.js.map",
+    "main.15199819.css.map": "/config-dashboard/static/css/main.15199819.css.map",
+    "main.63b79b7d.js.map": "/config-dashboard/static/js/main.63b79b7d.js.map",
     "787.3e8cfbee.chunk.js.map": "/config-dashboard/static/js/787.3e8cfbee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bba1008.css",
-    "static/js/main.177807d4.js"
+    "static/css/main.15199819.css",
+    "static/js/main.63b79b7d.js"
   ]
 }
