@@ -60,8 +60,6 @@ configs:
   analytics:
     issues:
       _TYPE: bool
-    users:
-      _TYPE: bool
   logs:
     console:
       _TYPE: bool
@@ -123,8 +121,6 @@ configs:
     _TYPE: bool
   apm:
     _TYPE: bool
-  temp:
-    _TYPE: string
 
 warns:
   group_warns:
