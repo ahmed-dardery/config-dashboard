@@ -138,9 +138,9 @@ class OptionsPage extends Component {
         variant: 'light'
       })
 
-    const overrides = JSON.stringify(obj).replace(/"([^"]+)":/g, '$1:');
+    const overrides = JSON.stringify(obj);
 
-    const output = legacy_output ? overrides : `add_company_overrides ${company_id} ${overrides} ${jira_ticket}`
+    const output = legacy_output ? overrides : `edit_company_overrides ${company_id} ${overrides} ${jira_ticket}`
 
     msgs.push({
       title: 'Output',
