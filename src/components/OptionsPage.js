@@ -192,14 +192,9 @@ class OptionsPage extends Component {
             <div className="d-grid gap-2">
               <Button size="sm" variant="secondary" onClick={this.clearAll}>Clear All</Button>
             </div>
-            {
-              /*
-              <div className="d-grid gap-2">
-                <Button size="sm" variant="warning" onClick={this.removeOverrides}>Remove all overrides</Button>
-              </div>
-              */
-            }
-
+            <div className="d-grid gap-2">
+              <Button size="sm" variant="warning" onClick={this.removeOverrides}>Remove all overrides</Button>
+            </div>
           </Col>
         </Row>
       </Container>
